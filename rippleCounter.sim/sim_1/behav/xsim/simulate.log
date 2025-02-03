@@ -1,0 +1,28 @@
+Time resolution is 1 ps
+At time                    0, count = 0, up_down = 1
+At time                15000, count = 1, up_down = 1
+At time                25000, count = 2, up_down = 1
+At time                35000, count = 3, up_down = 1
+At time                45000, count = 4, up_down = 1
+At time                55000, count = 5, up_down = 1
+At time                65000, count = 6, up_down = 1
+At time                75000, count = 7, up_down = 1
+At time                85000, count = 0, up_down = 1
+At time                95000, count = 1, up_down = 1
+At time               105000, count = 2, up_down = 1
+At time               110000, count = 2, up_down = 0
+At time               115000, count = 1, up_down = 0
+At time               125000, count = 0, up_down = 0
+At time               135000, count = 7, up_down = 0
+At time               140000, count = 0, up_down = 0
+At time               155000, count = 7, up_down = 0
+At time               165000, count = 6, up_down = 0
+At time               175000, count = 5, up_down = 0
+At time               185000, count = 4, up_down = 0
+At time               195000, count = 3, up_down = 0
+At time               205000, count = 2, up_down = 0
+At time               215000, count = 1, up_down = 0
+At time               225000, count = 0, up_down = 0
+At time               235000, count = 7, up_down = 0
+At time               245000, count = 6, up_down = 0
+$finish called at time : 250 ns : File "C:/Users/VENUJAN/Desktop/rippleCounter/up_down_rippleCounter_tb.v" Line 38

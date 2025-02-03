@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VENUJAN/Desktop/rippleCounter/rippleCounter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module up_down_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/VENUJAN/Desktop/rippleCounter/up_down_rippleCounter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
