@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+time=0, s=x, c=x, a=x, b=x
+time=2, s=0, c=0, a=0, b=0
+time=4, s=1, c=0, a=0, b=1
+time=6, s=1, c=0, a=1, b=0
+time=8, s=0, c=1, a=1, b=1
+time=10, s=0, c=0, a=0, b=0
+time=12, s=0, c=1, a=1, b=1
+$finish called at time : 14 ns : File "C:/Users/VENUJAN/Desktop/02. 5th Semi/5th semester/02.HDL/HDL programs/Half_Adder/Half_Adder.srcs/sim_1/new/HalfAdder_tb.v" Line 53
